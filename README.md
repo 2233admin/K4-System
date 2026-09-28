@@ -7,9 +7,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/KitsuneLab-Development/K4-System/total?style=for-the-badge)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/KitsuneLab-Development/K4-System/dev?style=for-the-badge)
 
-> [!CAUTION]
-> This plugin has been archived - Maintained version: https://github.com/karola3vax/K4-System
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
